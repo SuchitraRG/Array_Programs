@@ -7,7 +7,7 @@ Scanner sc=new Scanner(System.in);
 char c[]=new char[10];
 System.out.println("enter the char array");
 
-// for user inputSS
+// for user inputS
 for(int i=0;i<c.length;i++)
 {
 c[i]=sc.next().charAt(0);
