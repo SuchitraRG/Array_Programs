@@ -18,7 +18,7 @@ for(int i=0;i<s.length;i++)
 {
 if(s[i].equals("Suchitra"))
 {
-System.out.println(i);
+System.out.println("The string is present at index"+i);
 break;
 }
 else
